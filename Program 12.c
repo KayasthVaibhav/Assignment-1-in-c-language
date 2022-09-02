@@ -1,0 +1,15 @@
+//12. Find output of below code:
+
+#include <stdio.h>
+#include <conio.h>
+
+int main()
+{
+   int x = printf("ineuron");
+   printf("\n%d",x);
+   return 0;
+}
+
+// Output ....
+
+//Completed
